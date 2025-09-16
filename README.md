@@ -16,8 +16,8 @@
 - MARKETING, RH, FINANÇAS, REDES SOCIAIS
 ## Machine Learning
 - MACHINE LEARNING: https://github.com/scs999/pos_unicarioca/blob/main/Trabalho_ML_PosUnicarioca.ipynb
-- Python: https://github.com/scs999/pos_unicarioca/blob/main/Pos_Ci%C3%AAncia_de_Dados_Python(Final).ipynb
-- Fundamentos IA - Optuna https://scs999.github.io/pos_unicarioca/Relatorio_Optuna.pdf
-- Fundamentos IA - Segmentação Semântica: https://github.com/scs999/scs999.github.io/blob/master/Pos_unicarioca/Relatorio_Segmenta%C3%A7%C3%A3o_Semantica_UNET.pdf
+- PYTHON: https://github.com/scs999/pos_unicarioca/blob/main/Pos_Ci%C3%AAncia_de_Dados_Python(Final).ipynb
+- FUNDAMENTOS IA - Optuna https://scs999.github.io/pos_unicarioca/Relatorio_Optuna.pdf
+- FUNDAMENTOS IA - Segmentação Semântica: https://github.com/scs999/scs999.github.io/blob/master/Pos_unicarioca/Relatorio_Segmenta%C3%A7%C3%A3o_Semantica_UNET.pdf
 ## Copyright
 Silvio Cesar - SCS
